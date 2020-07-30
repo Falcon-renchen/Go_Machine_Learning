@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="472fc8dd-c05f-4d08-8d2e-1d61e9d80771" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../../Go_Project/BookstoreSystem" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bzm8oUCrPZKoWSWmP5VOGuOkXf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fitting_evaluation" />
+      <recent name="$PROJECT_DIR$/Stationary_series" />
+      <recent name="$PROJECT_DIR$/Partial_autocorrelation" />
+      <recent name="$PROJECT_DIR$/Autocorrelation" />
+      <recent name="$PROJECT_DIR$/Time_series" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Fitting_evaluation" />
+      <recent name="$PROJECT_DIR$/Stationary_series" />
+      <recent name="$PROJECT_DIR$/Partial_autocorrelation" />
+      <recent name="$PROJECT_DIR$/Autocorrelation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build Time_series_and_anomaly_detection/MAE">
+    <configuration name="go build Time_series_and_anomaly_detection/MAE" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Time_series_and_anomaly_detection" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/MAE/main.go" />
+      <package value="Time_series_and_anomaly_detection/MAE" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Time_series_and_anomaly_detection/Partial_autocorrelation" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Time_series_and_anomaly_detection" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Partial_autocorrelation/main.go" />
+      <package value="Time_series_and_anomaly_detection/Partial_autocorrelation" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Time_series_and_anomaly_detection/Stationary_series" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Time_series_and_anomaly_detection" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Stationary_series/main.go" />
+      <package value="Time_series_and_anomaly_detection/Stationary_series" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (1)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Time_series_and_anomaly_detection" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Partial_autocorrelation/main.go" />
+      <package value="Time_series_and_anomaly_detection" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (2)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Time_series_and_anomaly_detection" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Fitting_evaluation/main.go" />
+      <package value="Time_series_and_anomaly_detection" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Time_series_and_anomaly_detection/MAE" />
+        <item itemvalue="Go Build.go build main.go (2)" />
+        <item itemvalue="Go Build.go build Time_series_and_anomaly_detection/Stationary_series" />
+        <item itemvalue="Go Build.go build main.go (1)" />
+        <item itemvalue="Go Build.go build Time_series_and_anomaly_detection/Partial_autocorrelation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1034" height="264" key="GridCell.Tab.0.bottom" timestamp="1596032233248">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1595592459911" />
+    <state width="1034" height="264" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1596032233248" />
+    <state width="1034" height="264" key="GridCell.Tab.0.center" timestamp="1596032233247">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1595592459910" />
+    <state width="1034" height="264" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1596032233247" />
+    <state width="1034" height="264" key="GridCell.Tab.0.left" timestamp="1596032233247">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1595592459909" />
+    <state width="1034" height="264" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1596032233247" />
+    <state width="1034" height="264" key="GridCell.Tab.0.right" timestamp="1596032233248">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1595592459910" />
+    <state width="1034" height="264" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1596032233248" />
+    <state x="203" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1596023499540">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="203" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1596023499540" />
+  </component>
+</project>

@@ -1,0 +1,37 @@
+1.有关解释ACF图的更多信息，
+请参阅https://coolstatsblog.com/2013/08/07/how-to-use-the-autocorreation-function-acf/。
+这篇文章提供了一些很棒的细节，其中一些我们在这里无法涵盖。
+
+2.偏自相关
+就像您可能从名称中期望的那样，部分自相关与自相关相关，但是存在一些细微的差异。
+部分意味着这是一种有条件的相关性。本质上，部分自相关可以在减去中间滞后的任何自相关之后，在一定滞后下测量序列与自身的相关性。您可以将其视为除去了中间相关之后的剩余自相关。
+
+我们可能想要这样的原因是，假设可以通过自动回归模型进行建模，
+我们不仅需要ACF来确定时间序列模型的顺序。假设使用ACF，我们已经确定可以通过自回归模型对序列进行建模，因为ACF随延迟呈指数衰减。
+我们如何知道是应该通过一个自身滞后一个时间段的版本还是同时通过一个时间段和两个时间段滞后的版本对这个时间序列建模？
+
+通过减去中间相关性，我们能够快速确定可以使用具有更多项的自回归模型建模的任何剩余相关性。如果部分自相关在第一次滞后之后消失，
+我们知道我们应该能够基于自身的一个滞后版本（在一个时间段内滞后）对序列进行建模。但是，如果部分自相关在第一次滞后后没有消失，我们知道我们将需要在自回归模型中采用时间序列的多个滞后版本。
+
+因此，对于一定的滞后，计算偏自相关的全部工作就是估计线性回归公式，该公式将为我们提供相应的系数。执行此计算的函数称为部分自相关函数（PACF）
+
+3.自回归模型通常与称为移动平均模型的模型结合。当将它们组合在一起时，它们通常被称为自回归移动平均（ARMA）或自回归综合移动平均（ARIMA）模型。
+ARMA / ARIMA模型的移动平均线的部分可以让您捕捉到的东西像白噪声或其他误差项的时间序列，这实际上会提高我们的AR（2）对于飞机乘客模型中的作用。
+
+4.时间序列统计（ACF和PACF）：
+
+  如何使用ACF：https：//coolstatsblog.com/2013/08/07/how-to-use-the-autocorreation-function-acf/
+  识别ARIMA模型中AR或MA术语的数量：https : //people.duke.edu/~rnau/411arim3.htm
+  自回归模型：
+
+  关于AR模型的更多数学介绍：https : //onlinecourses.science.psu.edu/stat501/node/358
+  github.com/sajari/regressiondocs：https : //godoc.org/github.com/sajari/regression
+  ARMA / ARIMA模型：
+
+  ARIMA简介：https : //people.duke.edu/~rnau/411arim.htm
+  异常检测：
+
+  InfluxDB：https : //www.influxdata.com/
+  普罗米修斯：https : //prometheus.io/
+  github.com/lytics/anomalyzerdocs：https : //godoc.org/github.com/lytics/anomalyzer
+  github.com/sec51/goanomalydocs：https : //godoc.org/github.com/sec51/goanomaly

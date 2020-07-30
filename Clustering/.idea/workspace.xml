@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d41d7ed2-ddc4-47df-b41a-ff84b443cf9a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../BookstoreSystem" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bzcuaD8CwqHJxuQnE6zrxkyGPz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/k_means/4_1_Evaluation" />
+      <recent name="$PROJECT_DIR$/k_means/2_Scatter_plot" />
+      <recent name="$PROJECT_DIR$/k_means/Histogram" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go (3)">
+    <configuration name="go build Clustering/Internal_cluster_evaluation " type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Clustering" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/Internal_cluster_evaluation /demo.go" />
+      <package value="Clustering/Internal_cluster_evaluation " />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Clustering/k_means/4_1_Evaluation" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Clustering" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/k_means/4_1_Evaluation/main.go" />
+      <package value="Clustering/k_means/4_1_Evaluation" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build demo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Clustering" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/Internal_cluster_evaluation /demo.go" />
+      <package value="Clustering" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (3)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Clustering" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/k_means/3_Generate_clusters/main.go" />
+      <package value="Clustering" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go (4)" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Clustering" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/k_means/4_2_Evaluation/main.go" />
+      <package value="Clustering" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go (3)" />
+        <item itemvalue="Go Build.go build demo.go" />
+        <item itemvalue="Go Build.go build Clustering/Internal_cluster_evaluation " />
+        <item itemvalue="Go Build.go build main.go (4)" />
+        <item itemvalue="Go Build.go build Clustering/k_means/4_1_Evaluation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="436" y="271" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589642018021">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="436" y="271" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1589642018021" />
+    <state width="1034" height="186" key="GridCell.Tab.0.bottom" timestamp="1596020290333">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="940" height="359" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595346123865" />
+    <state width="1398" height="317" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1589640589697" />
+    <state width="1034" height="186" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1596020290333" />
+    <state width="1034" height="186" key="GridCell.Tab.0.center" timestamp="1596020290332">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="940" height="359" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595346123863" />
+    <state width="1398" height="317" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1589640589696" />
+    <state width="1034" height="186" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1596020290332" />
+    <state width="1034" height="186" key="GridCell.Tab.0.left" timestamp="1596020290327">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="940" height="359" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595346123861" />
+    <state width="1398" height="317" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1589640589696" />
+    <state width="1034" height="186" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1596020290327" />
+    <state width="1034" height="186" key="GridCell.Tab.0.right" timestamp="1596020290333">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="940" height="359" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595346123864" />
+    <state width="1398" height="317" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1589640589697" />
+    <state width="1034" height="186" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1596020290333" />
+  </component>
+</project>

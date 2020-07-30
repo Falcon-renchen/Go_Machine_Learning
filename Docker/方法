@@ -1,0 +1,24 @@
+1.在Kubernetes上运行的Pachyderm，几乎可以部署在任何地方，因为Kubernetes可以部署在任何地方。您可以将Pachyderm部署在任何本地流行的云提供商上，
+甚至可以部署在您自己的笔记本电脑上。部署Pachyderm集群所需要做的就是以下操作
+
+Pachyderm将帮助我们解决有关数据管理，跟踪和可重复性的一些问题。
+Pachyderm还可以解决围绕可伸缩性和流水线需要解决的所有其余问题，因为Pachyderm同时提供了数据管理/版本转换功能和数据流水线功能。
+
+Kubernetes是一个容器编排引擎，在跨共享资源集群调度容器化工作负载（例如我们的Docker映像）时，它的性能令人惊叹。
+它现在非常流行，Pachyderm利用其内部的Kubernetes来管理容器化的数据处理管道。
+
+2.参考资料
+  码头工人：
+
+  Docker简介：https : //training.docker.com/introduction-to-docker
+  为Go应用构建最小的Docker映像：https : //blog.codeship.com/building-minimal-docker-containers-for-go-applications/
+  上皮：
+
+  公共Slack频道：http：//slack.pachyderm.io/
+  入门指南：http : //pachyderm.readthedocs.io/en/latest/getting_started/getting_started.html
+  转到客户端文档：https : //godoc.org/github.com/pachyderm/pachyderm/src/client
+  使用Pachyderm进行机器学习：http : //pachyderm.readthedocs.io/en/latest/cookbook/ml.html
+  机器学习示例：http : //pachyderm.readthedocs.io/en/latest/examples/readme.html#machine-learning
+  使用Pachyderm进行分布式处理：http : //pachyderm.readthedocs.io/en/latest/fundamentals/distributed_computing.html
+  常见的Pachyderm部署：http : //pachyderm.readthedocs.io/en/latest/deployment/deploy_intro.html
+  自动缩放Pachyderm群集：http : //pachyderm.readthedocs.io/en/latest/managing_pachyderm/autoscaling.html

@@ -1,0 +1,18 @@
+1.Evaluation_Cluster_Tech
+    轮廓系数与平均集群内距离和平均集群间距离之差成正比，并且总是在0.0到1.0之间。
+因此，更高的值（接近1.0的值）意味着更密集的群集，并且与其他群集区别更大。
+通常，我们可能想要调整聚类数和/或聚类技术以优化轮廓分数（即增大它）。
+在这里，我们正在使用实际上已经手工标记的数据，因此0.51对于该数据集必须取得良好的成绩。
+对于其他数据集，它可能更高或更低，这取决于数据中是否存在聚类以及您选择的相似性指标。
+轮廓分数绝不是内部评估聚类的唯一方法。
+实际上，我们可以仅使用剪影得分中的a或b量来评估我们的群集或每个群集的同质性，分别与其他群集不相似。
+同样，我们可以使用群集中各点之间的平均距离和群集的质心来测量紧密堆积的群集。
+更进一步地，我们可以使用的各种这里将不详细介绍其他评价指标的如所述Calinski-Harabaz指数
+（其被进一步讨论：http://datamining.rutgers.edu/publication/internalmeasures.pdf）。
+
+2.距离指标和评估集群：
+
+评估群集概述：https : //nlp.stanford.edu/IR-book/html/htmledition/evaluation-of-clustering-1.html
+各种距离/相似度指标的比较：http : //journals.plos.org/plosone/article?id=10.1371 / journal.pone.0144059
+可视化k-均值聚类：https : //www.naftaliharris.com/blog/visualizing-k-means-clustering/
+github.com/mash/gokmeansdocs：https : //godoc.org/github.com/mash/gokmeans

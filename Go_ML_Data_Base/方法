@@ -1,0 +1,83 @@
+dataform:
+
+1.我们需要准确跟踪我们正在使用的数据，创建的结果以及创建方式。
+这是我们将能够不断改进模型和技术的唯一方法。
+
+2.Pachyderm（http://pachyderm.io/），
+这是一种用于数据版本控制和数据管道化的开源框架
+
+3.使用Pachyderm来版本数据和创建分布式ML工作流。
+Pachyderm本身是一个在Kubernetes（https://kubernetes.io/）
+上运行的应用程序，并且由您选择的对象存储支持。为了开发和实验的目的，
+可以轻松地在本地安装和运行Pachyderm。安装应该花费5-10分钟，
+可以在http://docs.pachyderm.io的Pachyderm文档中找到本地安装的说明。
+Pachyderm可以部署到任何云甚至本地。
+
+4.encoding/csvdocs：https : //golang.org/pkg/encoding/csv/
+  github.com/kniren/gota/dataframedocs：https : //godoc.org/github.com/kniren/gota/dataframe
+  JSON数据：
+  encoding/jsondocs：https : //golang.org/pkg/encoding/json/
+  Bill Kennedy的JSON解码博客文章：https : //www.goinggo.net/2014/01/decode-json-documents-in-go.html
+  本·约翰逊（Ben Johnson）的博客文章Go Walkthrough：encoding/jsonpackage：package：https : //medium.com/go-walkthrough/go-walkthrough-encoding-json-package-9681d1d37a8f
+  缓存：
+
+  github.com/patrickmn/go-cachedocs：https : //godoc.org/github.com/patrickmn/go-cache
+  github.com/boltdb/boltdocs：https : //godoc.org/github.com/boltdb/bolt
+  有关BoltDB的信息和动机：https ://npf.io/2014/07/intro-to-boltdb-painless-performant-persistence/
+  上皮：
+
+  常规文档：http : //docs.pachyderm.io
+  转到客户端文档：https : //godoc.org/github.com/pachyderm/pachyderm/src/client
+  公开用户Slack团队注册：http：//docs.pachyderm.io
+
+5.如果平均值和中位数不接近，则意味着较高或较低的值分别拖累了平均值的较高或较低
+-这种影响在中位数中不那么明显。我们称其为偏态分布。
+
+6.
+
+matrix
+1.如果您同时使用矩阵和向量，并且/或者想要访问更大范围的向量/矩阵功能，
+则最好使用gonum.org/v1/gonum/mat（以及偶尔引用gonum.org/v1/gonum/blas/blas64
+
+2.机器学习应用程序的成功将取决于数据的质量,对数据的理解以及对结果的评估/验证
+
+3.向量和矩阵：
+
+  gonum.org/v1/gonum/floatsdocs：https : //godoc.org/gonum.org/v1/gonum/floats
+  gonum.org/v1/gonum/matdocs：https : //godoc.org/gonum.org/v1/gonum/mat
+  统计：
+
+  gonum.org/v1/gonum/statdocs：https : //godoc.org/gonum.org/v1/gonum/stat
+  github.com/montanaflynn/statsdocs：https : //godoc.org/github.com/montanaflynn/stats
+  可视化：
+
+  gonum.org/v1/plotdocs：https : //godoc.org/gonum.org/v1/plot
+  gonum.org/v1/plot带有示例的Wiki：https : //github.com/gonum/plot/wiki/Example-plots
+  机率：
+
+  gonum.org/v1/gonum/stat/distuvdocs：https : //godoc.org/gonum.org/v1/gonum/stat/distuv
+
+Evaluation
+
+1.这些类型的结果均具有相应的评估指标，将在此处进行介绍。但是，请记住，评估指标的选择取决于您尝试使用机器学习模型实现的目标。
+没有一种万能的度量标准，在某些情况下，您甚至可能需要创建自己的度量标准。
+
+2.MSE或均方差（MSD）是所有误差的平方的平均值
+  MAE是所有误差的绝对值的平均值
+  MSE对异常值更为敏感。
+
+Test_Train
+1.要真正了解模型的总体性能，切勿将保持集用于训练和测试中。在完成训练模型，
+对模型进行调整并在测试数据集上获得可接受的性能的过程之后，应保留此数据集以供验证。
+
+2.评价：
+  关于过度拟合的文章：http : //scott.fortmann-roe.com/docs/MeasuringError.html
+  关于偏差方差折衷的文章：http : //scott.fortmann-roe.com/docs/BiasVariance.html
+  分类评估指标的比较：https : //en.wikipedia.org/wiki/Precision_and_recall
+  gonum.org/v1/gonum/statdocs：https : //godoc.org/gonum.org/v1/gonum/stat
+  github.com/sjwhitworth/golearn/evaluationdocs：https : //godoc.org/github.com/sjwhitworth/golearn/evaluation
+  验证：
+  github.com/kniren/gota/dataframedocs：https : //godoc.org/github.com/kniren/gota/dataframe
+  github.com/sjwhitworth/golearn/evaluationdocs：https : //godoc.org/github.com/sjwhitworth/golearn/evaluation
+
+3.

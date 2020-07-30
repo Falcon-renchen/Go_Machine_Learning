@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a5571b7-c2d0-44be-8e3d-b9e21f56f066" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+    <option name="urls">
+      <list>
+        <option value="file://$PROJECT_DIR$/../../Go_Project/BookstoreSystem" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZuyHu1L7y7uKrc0bgXpJp491DJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/evalute_cateory" />
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/evalute_cateory" />
+      <recent name="$PROJECT_DIR$/dataform/dataform8" />
+      <recent name="$PROJECT_DIR$/dataform" />
+      <recent name="$PROJECT_DIR$/fenlitestandtrain" />
+      <recent name="$PROJECT_DIR$/evalute_success" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/dataform/dataform4" />
+      <recent name="$PROJECT_DIR$/fenlitestandtrain" />
+      <recent name="$PROJECT_DIR$/dataform" />
+      <recent name="$PROJECT_DIR$/dataform/dataform6" />
+      <recent name="$PROJECT_DIR$/dataform/dataform7" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build Go_ML/ROC_AUC">
+    <configuration name="go build Go_ML/ROC_AUC" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_ML" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ROC_AUC/roc.go" />
+      <package value="Go_ML/ROC_AUC" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Go_ML/evaluation_cateory2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_ML" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/evaluation_cateory2/main.go" />
+      <package value="Go_ML/evaluation_cateory2" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build Go_ML/evalute_success" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_ML" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/evalute_success/MSE_MAE.go" />
+      <package value="Go_ML/evalute_success" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build catatory.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_ML" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/evalute_cateory/catatory.go" />
+      <package value="Go_ML" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="Go_ML" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/evaluation_cateory2/main.go" />
+      <package value="Go_ML" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build Go_ML/ROC_AUC" />
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build Go_ML/evaluation_cateory2" />
+        <item itemvalue="Go Build.go build catatory.go" />
+        <item itemvalue="Go Build.go build Go_ML/evalute_success" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="300" y="350" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595953463305">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="300" y="350" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1595953463305" />
+    <state width="1034" height="329" key="GridCell.Tab.0.bottom" timestamp="1595997904710">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1034" height="366" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1595952882851" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1587550761712" />
+    <state width="1034" height="329" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1595997904710" />
+    <state width="1034" height="329" key="GridCell.Tab.0.center" timestamp="1595997904709">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1034" height="366" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1595952882849" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1587550761707" />
+    <state width="1034" height="329" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1595997904709" />
+    <state width="1034" height="329" key="GridCell.Tab.0.left" timestamp="1595997904708">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1034" height="366" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1595952882848" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1587550761707" />
+    <state width="1034" height="329" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1595997904708" />
+    <state width="1034" height="329" key="GridCell.Tab.0.right" timestamp="1595997904709">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1034" height="366" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1595952882850" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1587550761707" />
+    <state width="1034" height="329" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1595997904709" />
+    <state width="1034" height="329" key="GridCell.Tab.1.bottom" timestamp="1595997904711">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1034" height="329" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1595997904711" />
+    <state width="1034" height="329" key="GridCell.Tab.1.center" timestamp="1595997904711">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1034" height="329" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1595997904711" />
+    <state width="1034" height="329" key="GridCell.Tab.1.left" timestamp="1595997904710">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1034" height="329" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1595997904710" />
+    <state width="1034" height="329" key="GridCell.Tab.1.right" timestamp="1595997904711">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1034" height="329" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1595997904711" />
+  </component>
+</project>

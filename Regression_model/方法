@@ -1,0 +1,25 @@
+1. y=mx+b
+我们调整m和b，直到最小化误差平方和。
+换句话说，我们训练有素的线性回归线是使平方和最小化的线。
+一种用于减小平方误差之和的非常流行且通用的优化技术称为梯度下降。
+与分析解决方案相比，此方法在实现方面可能更有效，在计算方面（例如在内存方面）更有利，
+并且更灵活。
+
+2.如果此关系不是线性的，则线性回归的性能可能会很差。
+
+3.对于某些拟合类型（例如OLS），数据中的离群值或极值可能会偏离回归线。
+有一些方法可以拟合回归线，这些回归线对异常值的影响更大，或者在异常值方面的表现有所不同，
+例如正交最小二乘或岭回归。
+
+4.线性回归：
+
+  普通最小二乘回归直观地说明：http : //setosa.io/ev/ordinary-least-squares-regression/
+
+  github.com/sajari/regressiondocs：http : //godoc.org/github.com/sajari/regression
+  多重回归：
+
+  多元回归可视化：http : //shiny.stat.calpoly.edu/3d_regression/
+  非线性回归和其他回归：
+
+  go-hep.org/x/hep/fitdocs：https : //godoc.org/go-hep.org/x/hep/fit
+  github.com/berkmancenter/ridgedocs：https : //godoc.org/github.com/berkmancenter/ridge
