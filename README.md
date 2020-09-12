@@ -20,19 +20,19 @@ github.com/boltdb/boltdocs：https://godoc.org/github.com/boltdb/bolt
  
  
 # 向量和矩阵：
-gonum.org/v1/gonum/floatsdocs：https://godoc.org/gonum.org/v1/gonum/floats  
-gonum.org/v1/gonum/matdocs：https://godoc.org/gonum.org/v1/gonum/mat  
+gonum.org/v1/gonum/floats docs：https://godoc.org/gonum.org/v1/gonum/floats  
+gonum.org/v1/gonum/mat docs：https://godoc.org/gonum.org/v1/gonum/mat  
 
 # 统计：
-gonum.org/v1/gonum/statdocs：https://godoc.org/gonum.org/v1/gonum/stat  
-github.com/montanaflynn/statsdocs：https://godoc.org/github.com/montanaflynn/stats  
+gonum.org/v1/gonum/stat docs：https://godoc.org/gonum.org/v1/gonum/stat  
+github.com/montanaflynn/stats docs：https://godoc.org/github.com/montanaflynn/stats  
 
 # 可视化：
 gonum.org/v1/plotdocs：https://godoc.org/gonum.org/v1/plot  
 gonum.org/v1/plot带有示例的Wiki：https://github.com/gonum/plot/wiki/Example-plots  
 
 # 机率：
-gonum.org/v1/gonum/stat/distuvdocs：https://godoc.org/gonum.org/v1/gonum/stat/distuv
+gonum.org/v1/gonum/stat/distuv docs：https://godoc.org/gonum.org/v1/gonum/stat/distuv
 
 
 
@@ -44,23 +44,23 @@ gonum.org/v1/gonum/statdocs：https://godoc.org/gonum.org/v1/gonum/stat
 github.com/sjwhitworth/golearn/evaluationdocs：https://godoc.org/github.com/sjwhitworth/golearn/evaluation  
 
 # 验证：
-github.com/kniren/gota/dataframedocs：https://godoc.org/github.com/kniren/gota/dataframe  
-github.com/sjwhitworth/golearn/evaluationdocs：https://godoc.org/github.com/sjwhitworth/golearn/evaluation  
+github.com/kniren/gota/dataframe docs：https://godoc.org/github.com/kniren/gota/dataframe  
+github.com/sjwhitworth/golearn/evaluation docs：https://godoc.org/github.com/sjwhitworth/golearn/evaluation  
 
 
 # 线性回归：
 普通最小二乘回归直观地说明：http://setosa.io/ev/ordinary-least-squares-regression/  
-github.com/sajari/regressiondocs：http://godoc.org/github.com/sajari/regression  
+github.com/sajari/regression docs：http://godoc.org/github.com/sajari/regression  
 
 # 多重回归：
 多元回归可视化：http://shiny.stat.calpoly.edu/3d_regression/  
 
 # 非线性回归和其他回归：
-go-hep.org/x/hep/fitdocs：https://godoc.org/go-hep.org/x/hep/fit  
-github.com/berkmancenter/ridgedocs：https://godoc.org/github.com/berkmancenter/ridge  
+go-hep.org/x/hep/fit docs：https://godoc.org/go-hep.org/x/hep/fit  
+github.com/berkmancenter/ridge docs：https://godoc.org/github.com/berkmancenter/ridge  
 
 # 一般分类：
-github.com/sjwhitworth/golearndocs：https://godoc.org/github.com/sjwhitworth/golearn  
+github.com/sjwhitworth/golearn docs：https://godoc.org/github.com/sjwhitworth/golearn  
 http://yann.lecun.com/exdb/lenet/。检索2019年3月24日。  
 https://blogs.nvidia.com/blog/2016/05/06/self-driving-cars-3/。检索2019年3月24日。  
 https://github.com/zalandoresearch/fashion-mnist。检索2019年3月24日。  
